@@ -1,4 +1,4 @@
-<a href="https://tester.army/e2e?utm_source=e2e&utm_medium=github&utm_campaign=readme_banner"><img src="./.github/assets/readme-banner.png" alt="e2e, the open source AI testing framework by TesterArmy" width="100%" /></a>
+<a href="https://e2e.com?utm_source=e2e&utm_medium=github&utm_campaign=readme_banner"><img src="./.github/assets/readme-banner.png" alt="e2e, the open source AI testing framework by TesterArmy" width="100%" /></a>
 
 <p align="center">
   <a href="https://tester.army?utm_source=e2e&utm_medium=github&utm_campaign=readme_badge"><img alt="Made by TesterArmy" src="./.github/assets/made-by-testerarmy.svg" /></a>
@@ -13,7 +13,7 @@
 
 # e2e
 
-[e2e](https://tester.army/e2e?utm_source=e2e&utm_medium=github&utm_campaign=readme_intro) is an end-to-end testing framework for web and mobile apps. Describe a goal in natural language and an agent drives the app to reach it. Check the result with locators and assertions in the same test.
+[e2e](https://e2e.com?utm_source=e2e&utm_medium=github&utm_campaign=readme_intro) is an end-to-end testing framework for web and mobile apps. Describe a goal in natural language and an agent drives the app to reach it. Check the result with locators and assertions in the same test.
 
 ```ts
 // tests/checkout.e2e.ts
@@ -42,7 +42,7 @@ npx e2e init
 
 `init` asks for an engine, web or mobile, and a model provider, then writes a
 config and an example test. The
-[quickstart](https://e2e.tester.army/docs/quickstart) covers the rest.
+[quickstart](https://e2e.com/docs/quickstart) covers the rest.
 
 To see a finished setup in your stack, open
 [`examples/`](https://github.com/tester-army/e2e/tree/main/examples):
@@ -62,12 +62,12 @@ Flutter, and .NET MAUI, each a standalone project with a passing suite.
 | [`@e2e-dev/limrun`](https://www.npmjs.com/package/@e2e-dev/limrun) | Limrun hosted iOS simulators and Android emulators for mobile tests. |
 | [`@e2e-dev/eas`](https://www.npmjs.com/package/@e2e-dev/eas) | EAS Simulators hosted iOS simulators and Android emulators for the mobile engine. |
 | [`@e2e-dev/smol`](https://www.npmjs.com/package/@e2e-dev/smol) | smol machines browsers for the web engine: by default, each attempt branches a warm Chromium microVM. |
-| [`@e2e-dev/decision`](https://e2e.tester.army/docs/decision-models) | Decision-model executors for bounded semantic actions and assertions. |
+| [`@e2e-dev/decision`](https://e2e.com/docs/decision-models) | Decision-model executors for bounded semantic actions and assertions. |
 | [`@e2e-dev/testmu`](https://www.npmjs.com/package/@e2e-dev/testmu) | TestMu AI (formerly LambdaTest) hosted Android emulators, iOS simulators, and real devices for the mobile engine. |
 
 ## Documentation
 
-[e2e.tester.army/docs](https://e2e.tester.army/docs). The `e2e` package ships
+[e2e.com/docs](https://e2e.com/docs). The `e2e` package ships
 every page, so coding agents can read them offline in `node_modules/e2e/docs`.
 
 ## Contributing
@@ -86,7 +86,7 @@ Please don't open public issues for security vulnerabilities. Follow
 The CLI sends anonymous usage data, such as which commands and engines run and
 where runs fail, but no test content, app content, or credentials. Opt out with
 `npx e2e telemetry disable` or `E2E_TELEMETRY_DISABLED=1`.
-[Telemetry](https://e2e.tester.army/docs/telemetry) lists every field.
+[Telemetry](https://e2e.com/docs/telemetry) lists every field.
 
 ## Status
 
