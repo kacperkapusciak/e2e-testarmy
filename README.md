@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.star-history.com/tester-army/e2e"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/badge?repo=tester-army/e2e&type=trending&theme=dark" /><img alt="GitHub Trending Repository of the Day" src="https://api.star-history.com/badge?repo=tester-army/e2e&type=trending" /></picture></a>
+  <a href="https://www.star-history.com/e2e-inc/e2e"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/badge?repo=e2e-inc/e2e&type=trending&theme=dark" /><img alt="GitHub Trending Repository of the Day" src="https://api.star-history.com/badge?repo=e2e-inc/e2e&type=trending" /></picture></a>
 </p>
 
 # e2e
@@ -45,7 +45,7 @@ config and an example test. The
 [quickstart](https://e2e.com/docs/quickstart) covers the rest.
 
 To see a finished setup in your stack, open
-[`examples/`](https://github.com/tester-army/e2e/tree/main/examples):
+[`examples/`](https://github.com/e2e-inc/e2e/tree/main/examples):
 Vite, Next.js, Astro, Expo, SwiftUI, Jetpack Compose, Kotlin Multiplatform,
 Flutter, and .NET MAUI, each a standalone project with a passing suite.
 
